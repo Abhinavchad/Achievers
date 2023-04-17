@@ -2,7 +2,7 @@
 
 Achievers is a web application that provides a platform for JEE aspirants to make their preparation easy.The application allows users to create a list of goals, and get all materials complied in a single website.
 
-Features
+#Features
 The Achievers web application provides the following features:
 
 1.overview of JEE exam
@@ -13,7 +13,7 @@ The Achievers web application provides the following features:
 
 
 
-Technologies Used
+#Technologies Used
 The Achievers web application was built using the following technologies:
 
 1.HTML
@@ -22,7 +22,7 @@ The Achievers web application was built using the following technologies:
 4.Bootstrap
 
 
-Contributing
+#Contributing
 Contributions to the Achievers web application are welcome. To contribute, please follow these steps:
 
 1.Fork the repository.
